@@ -1,0 +1,4 @@
+[submodule "third_party/verilog-pcie"]
+	path = third_party/verilog-pcie
+	url = https://github.com/alexforencich/verilog-pcie
+	ignore = dirty

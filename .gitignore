@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+sim_build/
+*.fst
+*.vcd
+results.xml
+*_results.xml
+pynq/vivado/*
+!pynq/vivado/*.tcl
+.Xil/

@@ -1,0 +1,8 @@
+cocotb==1.9.2
+cocotb-bus==0.3.0
+cocotb-test==0.3.0
+cocotbext-axi==0.1.28
+cocotbext-pcie==0.2.16
+pytest
+pytest-xdist
+matplotlib
