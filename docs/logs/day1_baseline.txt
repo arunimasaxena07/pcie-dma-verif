@@ -1,0 +1,14 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.2.0, pluggy-1.7.0
+rootdir: /home/arunima/pcie-dma-verif/third_party/verilog-pcie
+configfile: tox.ini
+plugins: xdist-3.8.0, cocotb-test-0.3.0
+collected 68 items
+
+tb/dma_if_pcie_rd/test_dma_if_pcie_rd.py ............................... [ 45%]
+.                                                                        [ 47%]
+tb/dma_if_pcie_wr/test_dma_if_pcie_wr.py ............................... [ 92%]
+.                                                                        [ 94%]
+tb/pcie_axil_master/test_pcie_axil_master.py ....                        [100%]
+
+======================= 68 passed in 4941.92s (1:22:21) ========================
